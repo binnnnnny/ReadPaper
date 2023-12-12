@@ -18,9 +18,16 @@ A list of papers I have read.
 - [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://www.notion.so/Imagen-Photorealistic-Text-to-Image-Diffusion-Models-with-Deep-Language-Understanding-7d2db7b46f24485bb3429559a55f05df?pvs=4)
 - [ControlNet : Adding Conditional Control to Text-to-Image Diffusion Models](https://www.notion.so/ControlNet-Adding-Conditional-Control-to-Text-to-Image-Diffusion-Models-f965bab42c634252969d3099171ce33b?pvs=4)
 - [StableSR : Exploiting Diffusion Prior for Real-World Image Super-Resolution](https://www.notion.so/Exploiting-Diffusion-Prior-for-Real-World-Image-Super-Resolution-eab1b5a405e44046a6ca830464c090ac?pvs=4)
-- [PIXART-α : Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://www.notion.so/PIXART-Fast-Training-of-Diffusion-Transformer-for-Photorealistic-Text-to-Image-Synthesis-182f9920deb24af98fc22a4ce16a5d46?pvs=4)
-- [Prompt-to-Prompt Image Editing with Cross Attention Control](https://www.notion.so/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Control-07192249d7fe40aa81bd8110047a1127?pvs=4)
+- [PIXART-α : Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://velog.io/@yell0315/PIXART)
+- [Prompt-to-Prompt Image Editing with Cross Attention Control](https://velog.io/@yell0315/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Control)
 
 #### MultiModal
 - [CLIP : Learning Transferable Visual Models From Natural Language Supervision](https://www.notion.so/CLIP-Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-3b0678de5d504a86b147108d9037bc57?pvs=4)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://www.notion.so/BLIP-Bootstrapping-Language-Image-Pre-training-for-Unified-Vision-Language-Understanding-and-Genera-bd455063e8d34052ae46c0bbfb4440b8?pvs=4)
+
+## NLP
+- [Attention Is All You Need](https://www.notion.so/Attention-Is-All-You-Need-d3352893c7cf4358861bafe2df8c4fbf?pvs=4)
+  
+## Machine Learning
+- [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://velog.io/@yell0315/TabTransformer-Tabular-Data-Modeling-Using-Contextual-Embeddings)
+  
