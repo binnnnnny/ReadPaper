@@ -20,7 +20,7 @@ A list of papers I have read.
 - [StableSR : Exploiting Diffusion Prior for Real-World Image Super-Resolution](https://www.notion.so/Exploiting-Diffusion-Prior-for-Real-World-Image-Super-Resolution-eab1b5a405e44046a6ca830464c090ac?pvs=4)
 - [PIXART-α : Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://velog.io/@yell0315/PIXART)
 - [Prompt-to-Prompt Image Editing with Cross Attention Control](https://velog.io/@yell0315/Prompt-to-Prompt-Image-Editing-with-Cross-Attention-Control)
-
+- [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://www.notion.so/Null-text-Inversion-for-Editing-Real-Images-using-Guided-Diffusion-Models-10181b01a4ca411c94e4e8c2dc1bcff2?pvs=4)
 #### MultiModal
 - [CLIP : Learning Transferable Visual Models From Natural Language Supervision](https://www.notion.so/CLIP-Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-3b0678de5d504a86b147108d9037bc57?pvs=4)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://www.notion.so/BLIP-Bootstrapping-Language-Image-Pre-training-for-Unified-Vision-Language-Understanding-and-Genera-bd455063e8d34052ae46c0bbfb4440b8?pvs=4)
