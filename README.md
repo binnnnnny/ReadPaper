@@ -1,5 +1,5 @@
 # ReadPaper
-A list of papers I have read.
+A list of papers I have read
 
 # List of papers
 ## Computer Vision
